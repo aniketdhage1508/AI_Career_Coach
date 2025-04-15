@@ -1,6 +1,4 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-
-![LevelUp AI]
+# LevelUp AI - A Personalised AI Career Coach
 
 ### Make sure to create a `.env` file with following variables -
 
